@@ -1,1 +1,1 @@
-# HealthCare---Billing-and-Revenue-management
+# HealthCare Billing and Revenue management
