@@ -47,4 +47,5 @@ information based on Insurance taken by the patient.
 8. QA-Deployment
 9. QA/UAT Testing
 10. Production Deployment
+
 We will be starting off with designing the architecture and understand the underlying dependencies on other modules and design Database, UI, API's with security and compliance in place for all the modules and integrate QA-tested code with other modules.
