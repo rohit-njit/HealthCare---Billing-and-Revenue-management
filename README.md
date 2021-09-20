@@ -25,4 +25,4 @@ User Persona:
 2. Patients: Anyone who visit a doctor's office with the intention to get treatment for his/her ailment and recieve's billing information based on their encounters; Patient can also see information/details about their prior visits.
 3. Insurance Company: Insurer responsible for paying off patient's bill payment. Insurance company should recieve billing information based on Insurance taken by the patient.
 
-
+Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2532665
