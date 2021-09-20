@@ -35,3 +35,16 @@ billing information based on their encounters; Patient can also see information/
 information based on Insurance taken by the patient.
 
 **[Access Backlogs on Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2532665)**
+
+**Current Product backlog and rationale**
+1. Architecture Design
+2. Database Design and Implementation
+3. UI Design and Implementation
+4. API's Design and Implementation
+5. Identity and Access Management
+6. Security and Compliance management
+7. Integration
+8. QA-Deployment
+9. QA/UAT Testing
+10. Production Deployment
+We will be starting off with designing the architecture and understand the underlying dependencies on other modules and design Database, UI, API's with security and compliance in place for all the modules and integrate QA-tested code with other modules.
