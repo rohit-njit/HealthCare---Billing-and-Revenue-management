@@ -24,6 +24,7 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 **Stakeholders:** BackOffice, Patinets, Insurance Company
 
 **User Persona:**
+
 **1. BackOffice:** Any user responsible for bill generation and bill tracking and they should be able to generate and send bills
 to payee and keep the historical records.
 
