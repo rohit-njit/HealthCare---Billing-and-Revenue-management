@@ -5,7 +5,6 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 
 Git Repo - https://github.com/rohit-njit/HealthCare---Billing-and-Revenue-management/
 
-|------------------------------------------------------------------------------------------------------------------|
 |Team Name    |Team Members         |Role                                    |Roster                               |
 |-------------|---------------------|----------------------------------------|-------------------------------------|
 |SudoPower    |Rohit Sonawane       |Data Architect                          |"Sprint call on weekdays from 3-4PM  |
@@ -13,7 +12,6 @@ Git Repo - https://github.com/rohit-njit/HealthCare---Billing-and-Revenue-manage
 |             |Nitesh Lalan Jha     |Product management / Business Analyst   | methodology"                        |
 |             |Priyam A Sahoo       |Quality & DevOps                        |                                     |
 |             |Chandresh Sikarwar   |Microservices Developer                 |                                     |
-|-------------------------------------------------------------------------------------------------------------------
 
 
 Product Vision: Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product
