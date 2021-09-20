@@ -5,26 +5,15 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 
 Git Repo - https://github.com/rohit-njit/HealthCare---Billing-and-Revenue-management/
 
-|-----------------------------------------------------------------------------
-|Team Name    |Team Members         |Role                                    |
-|-------------|---------------------|----------------------------------------|
-|SudoPower    |Rohit Sonawane       |Data Architect                          |
-|             |Ankit Darekar        |UI/UX Developer                         |
-|             |Nitesh Lalan Jha     |Product management / Business Analyst   |
-|             |Priyam A Sahoo       |Quality & DevOps                        |
-|             |Chandresh Sikarwar   |Microservices Developer                 |
-|-----------------------------------------------------------------------------
-
--------------------------------------|
-Roster                               |
--------------------------------------|
-"Sprint call on weekdays from 3-4PM  |
- to track the daily progress/agile   |
- methodology"                        |
-                                     |
-                                     |
---------------------------------------
-
+|------------------------------------------------------------------------------------------------------------------|
+|Team Name    |Team Members         |Role                                    |Roster                               |
+|-------------|---------------------|----------------------------------------|-------------------------------------|
+|SudoPower    |Rohit Sonawane       |Data Architect                          |"Sprint call on weekdays from 3-4PM  |
+|             |Ankit Darekar        |UI/UX Developer                         | to track the daily progress/agile   |
+|             |Nitesh Lalan Jha     |Product management / Business Analyst   | methodology"                        |
+|             |Priyam A Sahoo       |Quality & DevOps                        |                                     |
+|             |Chandresh Sikarwar   |Microservices Developer                 |                                     |
+|-------------------------------------------------------------------------------------------------------------------
 
 
 Product Vision: Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product
