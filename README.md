@@ -54,7 +54,9 @@ information based on Insurance taken by the patient.
 
 The logical order for Billing and Revenue module would be to configure rates, receiving the superbills, generating claims, communication with insurer and clearinghouse, adjusting claims, generating and sending statements to the patients. **[More info](https://www.pivotaltracker.com/n/projects/2532665)**
 
-|Title|User story opening sentence|Additional details|Story points|
+|Title|User story opening sentence|Additional details|Definition of Ready|Story points|
 |-----|---------------------------|------------------|------------|
-|Add, modify, configure rates |As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes. |Administrator should be able to configure the system with the initial rates applied to different CPT, HPPS, ICD. Administrator should also be able to modify add these configuration. This will make billing module extensible to any Health Care Provider.| 3 |
-|View the rates based on CPT, HPPCS, ICD codes |As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes. |Administrator should be able to view the different rates of CPT, HPPCS, ICD.|3|
+|Add, modify, configure rates |As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes. |Administrator should be able to configure the system with the initial rates applied to different CPT, HPPS, ICD. Administrator should also be able to modify add these configuration. This will make billing module extensible to any Health Care Provider.|1. There should be services to add, modify the rates.
+2. There should a database with the rates of different CPT, HPPS, ICD.| 3 |
+|View the rates based on CPT, HPPCS, ICD codes |As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes. |Administrator should be able to view the different rates of CPT, HPPCS, ICD.|A UI to view the rates.
+Possibly, a UI to manually add rates to a bill. (May not be deliverable) | 3|
