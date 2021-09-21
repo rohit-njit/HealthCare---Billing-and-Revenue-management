@@ -37,15 +37,21 @@ information based on Insurance taken by the patient.
 **[Access Backlogs on Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2532665)**
 
 **Current Product backlog and rationale**
-1. Architecture Design
-2. Database Design and Implementation
-3. UI Design and Implementation
-4. API's Design and Implementation
-5. Identity and Access Management
-6. Security and Compliance management
-7. Integration
-8. QA-Deployment
-9. QA/UAT Testing
-10. Production Deployment
+1. As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes.
+2. As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes.
+3. As a biller, I should be able to get insurance details - third party.
+4. As a biller, I should be able to validate the superbill - ensure that the procedures coded are billable.
+5. As a biller, I should be able to generate a claim based on superbill, patient info, rates and provider.
+6. As a biller, I should be able to ensure the standards of compliance, both for coding and format.
+7. As a biller, I should be able to send claims to clearinghouse and/or insurer.
+9. As a biller, I should be able to receive claims back from clearinghouse and/or insurer.
+10. As a biller, I should be able to send left over amount to second or more insurer.
+11. As a biller, I should be able to correct rejected bill and resend it.
+12. As a biller, I should be able to process denied claim.
+13. As a biller, I should be able to to send an appeal in case of a discrepancies.
+14. As a biller, I should be able to make statement to the patient.
+15. As a biller, I should be able to follow-up, send reminder to the patient.
 
 We will be starting off with designing the architecture and understand the underlying dependencies on other modules and design Database, UI, API's with security and compliance in place for all the modules and integrate QA-tested code with other modules.
+
+
