@@ -52,6 +52,5 @@ information based on Insurance taken by the patient.
 14. As a biller, I should be able to make statement to the patient.
 15. As a biller, I should be able to follow-up, send reminder to the patient.
 
-We will be starting off with designing the architecture and understand the underlying dependencies on other modules and design Database, UI, API's with security and compliance in place for all the modules and integrate QA-tested code with other modules.
-
+The logical order for Billing and Revenue module would be to configure rates, receiving the superbills, generating claims, communication with insurer and clearinghouse, adjusting claims, generating and sending statements to the patients. **[More info](https://www.pivotaltracker.com/n/projects/2532665)**
 
