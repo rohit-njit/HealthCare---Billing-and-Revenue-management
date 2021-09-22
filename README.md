@@ -58,3 +58,14 @@ The logical order for Billing and Revenue module would be to configure rates, re
 |-----|---------------------------|------------------|-------------------|------------|
 |Add, modify, configure rates |As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes. |Administrator should be able to configure the system with the initial rates applied to different CPT, HPPS, ICD. Administrator should also be able to modify add these configuration. This will make billing module extensible to any Health Care Provider.|1. There should be services to add, modify the rates.2. There should a database with the rates of different CPT, HPPS, ICD.| 3 |
 |View the rates based on CPT, HPPCS, ICD codes |As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes. |Administrator should be able to view the different rates of CPT, HPPCS, ICD.|A UI to view the rates. Possibly, a UI to manually add rates to a bill. | 3|
+
+
+
+
+|Team Members         |Estimation (Hrs per week)                              |
+|---------------------|----------------------------------------|
+|Rohit Sonawane       |   15                       |
+|Ankit Darekar        |15                         |
+|Nitesh Lalan Jha     |15  |
+|Priyam A Sahoo       |15                        |
+|Chandresh Sikarwar   |15                |
