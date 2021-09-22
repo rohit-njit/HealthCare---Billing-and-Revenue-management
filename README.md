@@ -17,11 +17,11 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 
 **Roster:** Sprint call on weekdays from 3-4PM to track the daily progress/agile methodology.
 
-**Product Vision:** Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product
+**Product Vision:** Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product.
 
-**Near Vision:** Designing architecture for the billing module and understanding the dependencies with other modules of the product
+**Near Vision:** Designing architecture for the billing module and understanding the dependencies with other modules of the product.
 
-**Stakeholders:** BackOffice, Patinets, Insurance Company
+**Stakeholders:** BackOffice, Patinets, Insurance Company.
 
 **User Persona:**
 
