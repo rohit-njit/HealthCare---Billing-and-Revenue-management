@@ -54,18 +54,20 @@ information based on Insurance taken by the patient.
 
 The logical order for Billing and Revenue module would be to configure rates, receiving the superbills, generating claims, communication with insurer and clearinghouse, adjusting claims, generating and sending statements to the patients. **[More info](https://www.pivotaltracker.com/n/projects/2532665)**
 
-|Title|User story opening sentence|Additional details|Definition of Ready|Story points|
-|-----|---------------------------|------------------|-------------------|------------|
-|Add, modify, configure rates |As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes. |Administrator should be able to configure the system with the initial rates applied to different CPT, HPPS, ICD. Administrator should also be able to modify add these configuration. This will make billing module extensible to any Health Care Provider.|1. There should be services to add, modify the rates.2. There should a database with the rates of different CPT, HPPS, ICD.| 3 |
-|View the rates based on CPT, HPPCS, ICD codes |As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes. |Administrator should be able to view the different rates of CPT, HPPCS, ICD.|A UI to view the rates. Possibly, a UI to manually add rates to a bill. | 3|
+|Title|User story opening sentence|Additional details|Definition of Ready|Story points|Estimation (Hrs per week) |
+|-----|---------------------------|------------------|-------------------|------------|--------------------------|
+|Add, modify, configure rates |As an administrator, I should be able to add, modify, configure rates based on CPT, HPPCS, ICD codes. |Administrator should be able to configure the system with the initial rates applied to different CPT, HPPS, ICD. Administrator should also be able to modify add these configuration. This will make billing module extensible to any Health Care Provider.|1. There should be services to add, modify the rates.
+2. There should a database with the rates of different CPT, HPPS, ICD.| 3 |20|
+|View the rates based on CPT, HPPCS, ICD codes |As an administrator, I should be able to view the rates based on CPT, HPPCS, ICD codes. |Administrator should be able to view the different rates of CPT, HPPCS, ICD.|A UI to view the rates.
+Possibly, a UI to manually add rates to a bill. (May not be deliverable) | 3|20|
+|Get insurance details|As a biller, I should be able to get insurance details - third party |Claims also have information about the provider, listed via a National Provider Index (NPI) number. Some claims will also include a Place of Service code, which details what type of facility the medical services were performed in. |A UI or service to gather information about the insurer listed via a National Provider Index (NPI) number.|3|20|
 
 
 
-
-|Team Members         |Estimation (Hrs per week)                              |
-|---------------------|----------------------------------------|
-|Rohit Sonawane       |   15                       |
-|Ankit Darekar        |15                         |
-|Nitesh Lalan Jha     |15  |
+|Team Members         |Estimation (Hrs per week) |
+|---------------------|--------------------------|
+|Rohit Sonawane       |   15                     |
+|Ankit Darekar        |15                        |
+|Nitesh Lalan Jha     |15                        |
 |Priyam A Sahoo       |15                        |
-|Chandresh Sikarwar   |15                |
+|Chandresh Sikarwar   |15                        |
