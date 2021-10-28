@@ -85,3 +85,12 @@ The logical order for Billing and Revenue module would be to configure rates, re
 
 
 **[Please find the APIs](https://chandreshsi.github.io/swaggerui/)**
+
+**Require following information from other teams**
+
+1. Procedure codes - patient management portal
+2. Patient info - patient portal team
+3. Insurance info - patient portal team
+4. Notification ?
+5. Statement - patient portal team
+
