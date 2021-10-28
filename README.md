@@ -82,3 +82,6 @@ The logical order for Billing and Revenue module would be to configure rates, re
 |Nitesh Lalan Jha     |15                        |
 |Priyam A Sahoo       |15                        |
 |Chandresh Sikarwar   |15                        |
+
+
+**[Please find the APIs](https://chandreshsi.github.io/swaggerui/)**
