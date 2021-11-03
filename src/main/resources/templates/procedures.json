@@ -1,0 +1,11 @@
+{
+  "id": "random-001",
+  "codingType": "CPT",
+  "diagnosisCode": [{
+    "id": "diagnosis-id-001",
+    "code": "1XX1",
+    "description": "This could be a server illness."
+  }],
+  "code": "00XX",
+  "description": "Procedure involves surgery."
+}

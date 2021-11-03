@@ -17,11 +17,11 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 
 **Roster:** Sprint call on weekdays from 3-4PM to track the daily progress/agile methodology.
 
-**Product Vision:** Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product
+**Product Vision:** Making Billing and revenue management as a service which is simple, secure, convenient and extensible for any Health Care Product.
 
-**Near Vision:** Designing architecture for the billing module and understanding the dependencies with other modules of the product
+**Near Vision:** Designing architecture for the billing module and understanding the dependencies with other modules of the product.
 
-**Stakeholders:** BackOffice, Patinets, Insurance Company
+**Stakeholders:** BackOffice, Patinets, Insurance Company.
 
 **User Persona:**
 
@@ -82,3 +82,15 @@ The logical order for Billing and Revenue module would be to configure rates, re
 |Nitesh Lalan Jha     |15                        |
 |Priyam A Sahoo       |15                        |
 |Chandresh Sikarwar   |15                        |
+
+
+**[Please find the APIs](https://chandreshsi.github.io/HealthCare---Billing-and-Revenue-management/)**
+
+**Require following information from other teams**
+
+1. Procedure codes - patient management portal
+2. Patient info - patient portal team
+3. Insurance info - patient portal team
+4. Notification ?
+5. Statement - patient portal team
+
